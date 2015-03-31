@@ -1,5 +1,9 @@
 # Car-Park-System
 v1.0 Release Documentation -- Readme.txt
+
+![promisechains](https://github.com/xinyu-liu/Car-Park-System/blob/master/demo3.png)
+More demos can be seen in the repository directly.
+
 This Readme explain how to install, compile and run the code of the Car Park Control System.
 
 1. How To Install
